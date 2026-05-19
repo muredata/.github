@@ -6,7 +6,7 @@
   <strong>Building intelligent data systems.</strong>
 </p>
 
-[Mure Data](https://muredata.com) is a AI-native data agency that builds data systems for companies, optimized for agents. The platform has three pillars: ecosystem reasoning layer, data infra for agents to interact with data platforms, and agency runtime.
+[Mure Data](https://muredata.com) is an AI-native data agency that builds data systems for humans, optimized for agents. The platform has three pillars: an ecosystem reasoning layer, data infrastructure for agents to interact with data backends, and an agency runtime.
 
 ### Main repositories
 
