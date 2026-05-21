@@ -10,7 +10,7 @@
 
 ### Main repositories
 
-- _soon_
+- [agentic-data-tools](https://github.com/muredata/agentic-data-tools): A skills manager to manage data skills across Codex CLI, Claude Code, and GitHub Copilot.
 
 
 ### Socials
