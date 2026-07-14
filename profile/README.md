@@ -10,6 +10,7 @@
 
 ### Main repositories
 
+- [agent-catalog](https://github.com/muredata/agent-catalog): A catalog for agentic data resources, implements ARD spec
 - [agentic-data-tools](https://github.com/muredata/agentic-data-tools): [experiment] A skills manager to manage data skills across Codex CLI, Claude Code, and GitHub Copilot.
 - [fabric-demos](https://github.com/muredata/fabric-demos): [experiment] A tiny lib to deploy Microsoft Fabric demos in one-click.
 
