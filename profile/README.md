@@ -6,7 +6,7 @@
   <strong>Building intelligent data systems.</strong>
 </p>
 
-[Mure Data](https://muredata.com) is an AI-native data agency that builds data systems for humans, optimized for agents. We embed with companies to build data systems for the agentic era. 
+[Mure Data](https://muredata.com) is an AI-native data agency that builds data systems for ambitious companies. We embed with companies to build data systems for humans, optimized for agents. 
 
 ### Main repositories
 
