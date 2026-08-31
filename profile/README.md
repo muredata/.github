@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <strong>Building intelligent data systems.</strong>
+  <strong>Building agentic data systems.</strong>
 </p>
 
-[Mure Data](https://muredata.com) is an AI data engineering agency. We build agentic data systems. 
+[Mure Data](https://muredata.com) is an AI data engineering agency.
 
 ### Main repositories
 
