@@ -6,7 +6,7 @@
   <strong>Building agentic data systems.</strong>
 </p>
 
-[Mure Data](https://muredata.com) is an AI data engineering agency.
+[Mure Data](https://muredata.com) is an AI data engineering company.
 
 ### Main repositories
 
