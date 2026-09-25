@@ -9,7 +9,7 @@
 ### Main repositories
 
 - [mure-examples](https://github.com/muredata/mure-examples): Scripts, experiments, blog code
-- [mure_log](https://github.com/muredata/mure-log): Our bi-weekly newsletter in markdown
+- [mure-log](https://github.com/muredata/mure-log): Our bi-weekly newsletter in markdown
 
 
 ### Socials
