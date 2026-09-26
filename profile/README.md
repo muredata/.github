@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muredata/.github/main/profile/muredata_cover.png" alt="MRDT" width="768">
-</p>
-
-<p align="center">
-  <strong>Building agentic data systems.</strong>
-</p>
-
 ### Main repositories
 
 - [mure-examples](https://github.com/muredata/mure-examples): Scripts, experiments, blog code
